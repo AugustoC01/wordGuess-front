@@ -2,7 +2,7 @@
   "name": "word_guess_front",
   "private": true,
   "homepage": "https:://augustoc01.github.io/wordGuess-front/",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
